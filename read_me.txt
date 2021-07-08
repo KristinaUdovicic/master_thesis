@@ -1,4 +1,4 @@
-Direktorij algortihm_detailed sadržava datoteke ship_port_algorithm.py i gale_shapley_algorithm.py čiji output osim rezultata, 
+Direktorij algorithm_detailed sadržava datoteke ship_port_algorithm.py i gale_shapley_algorithm.py čiji output osim rezultata, 
 sadržavaju i popratne informacije o njihovom konstruiranju. Outputi su priloženi u .txt datotekama, čija su imena naznačena 
 u komentarima datoteka ship_port_algorithm.py i gale_shapley_algorithm.py prije zadavanja problema.
 Pozivi metoda za probleme su zakomentirani.
@@ -12,7 +12,7 @@ implementiran Ship-Port algoritam, kao i istoimene datoteke s outputima.
 
 **
 
-Directory algortihm_detaied contains files ship_port_algorithm.py and gale_shapley_algorithm.py, whose outputs, besides the result,
+Directory algorithm_detaied contains files ship_port_algorithm.py and gale_shapley_algorithm.py, whose outputs, besides the result,
 contain information about the construction of the result. Outputs are available in .txt files, whohe names have been marked in 
 files ship_port_algorithm.py i gale_shapley_algorithm.py before definitions of the problems.
 Lines of code for the execution have been commented.
