@@ -1,0 +1,11 @@
+- original schedules:
+	ship s1: ['p1', '--', 'p2', 'p3']
+	ship s2: ['p2', 'p3', '--', 'p1']
+	ship s3: ['--', 'p1', 'p3', 'p2']
+
+- shortened schedules:
+	ship s1: ['p1', '--', 'p2']
+	ship s2: ['p2', 'p3']
+	ship s3: ['--', 'p1']
+
+Process finished with exit code 0
