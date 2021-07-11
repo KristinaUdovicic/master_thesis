@@ -1,6 +1,0 @@
-	(m1, w1)
-	(m2, w3)
-	(m3, w2)
-	(m4, w4)
-
-Process finished with exit code 0
