@@ -12,8 +12,8 @@ implementiran Ship-Port algoritam, kao i istoimene datoteke s outputima.
 
 **
 
-Directory algorithm_detaied contains files ship_port_algorithm.py and gale_shapley_algorithm.py, whose outputs, besides the result,
-contain information about the construction of the result. Outputs are available in .txt files, whohe names have been marked in 
+Directory algorithm_detailed contains files ship_port_algorithm.py and gale_shapley_algorithm.py, whose outputs, besides the result,
+contain information about the construction of the result. Outputs are available in .txt files, whose names have been marked in 
 files ship_port_algorithm.py i gale_shapley_algorithm.py before definitions of the problems.
 Lines of code for the execution have been commented.
 
